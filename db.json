@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "name": "Nitesh",
+      "username": "Nitesh123",
+      "email": "nitesh@gmail.com",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "8555545845",
+      "website": "www.ashwani.com",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Ashwani Yadav",
+      "username": "absgn",
+      "email": "yashwani1021@gmail.com",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Suite 280",
+        "city": "Howemouth",
+        "zipcode": "58804-1099",
+        "geo": {
+          "lat": "24.8918",
+          "lng": "21.8984"
+        }
+      },
+      "phone": "8659515254",
+      "website": "",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "name": "Ayush Yadav",
+      "username": "Ayush123",
+      "email": "yayush@gmail.com",
+      "phone": "9415076020",
+      "website": "",
+      "id": 8
+    },
+    {
+      "name": "Vivek Yadav",
+      "username": "Vivek123",
+      "email": "yashwani1021@gmail.com",
+      "phone": "8659515254",
+      "website": "",
+      "id": 9
+    },
+    {
+      "name": "Abhisekh Yadav",
+      "username": "Abhi123",
+      "email": "yashwani@gmail.com",
+      "phone": "8555545845",
+      "website": "",
+      "id": 10
+    },
+    {
+      "name": "Shubham Yadav",
+      "username": "Shubh123",
+      "email": "shubham@gmail.com",
+      "phone": "8659515254",
+      "website": "",
+      "id": 11
+    },
+    {
+      "name": "Piyush ",
+      "username": "piy123",
+      "email": "piyush@gmail.com",
+      "phone": "8555545845",
+      "website": "",
+      "id": 12
+    },
+    {
+      "name": "Aditya Yadav",
+      "username": "Adi123",
+      "email": "aditya123@gmail.com",
+      "phone": "8555545845",
+      "website": "",
+      "id": 14
+    }
+  ]
+}
